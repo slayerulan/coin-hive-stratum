@@ -20,8 +20,8 @@
   "homepage": "https://github.com/cazala/coin-hive-stratum#readme",
   "dependencies": {
     "minimist": "^1.2.0",
-    "moment": "^2.19.1",
-    "ws": "^3.2.0"
+    "moment": "^2.19.3",
+    "ws": "^3.3.1"
   },
   "bin": {
     "coin-hive-stratum": "./bin/coin-hive-stratum"
