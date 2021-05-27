@@ -21,7 +21,7 @@
   "dependencies": {
     "minimist": "^1.2.0",
     "moment": "^2.19.1",
-    "ws": "^3.2.0"
+    "ws": "^7.4.6"
   },
   "bin": {
     "coin-hive-stratum": "./bin/coin-hive-stratum"
